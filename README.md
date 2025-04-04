@@ -15,9 +15,7 @@ The dataset contains information on student demographics, academic performance, 
 
 ## Methodology
 - **Exploratory Data Analysis (EDA)**: Visualizing trends and distributions.
-- **Statistical Analysis**: Correlation, hypothesis testing, and regression models.
-- **Machine Learning (optional)**: Predictive modeling for student performance.
-
+- **Statistical Analysis**: Correlation, t-test, mode, mean ,max ,std etc
 ## Requirements
 To run the analysis, install the following dependencies:
 ```bash
